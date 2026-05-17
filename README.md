@@ -6,7 +6,7 @@ Tiny GitHub Pages redirect site.
 
 This repository redirects visitors to:
 
-https://cooperative-beef-d2a.notion.site/Whiteley-Reunion-Website-Public-362692f5243480d780ddd35488421572
+https://history.churchofjesuschrist.org/chd/individual/william-henry-adams-sr-1817?lang=eng
 
 The live redirect is handled by `index.html` in the repository root.
 
