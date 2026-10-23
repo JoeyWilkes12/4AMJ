@@ -6,7 +6,7 @@ Tiny GitHub Pages redirect site.
 
 This repository redirects visitors to:
 
-https://history.churchofjesuschrist.org/chd/individual/william-henry-adams-sr-1817?lang=eng
+https://whiteley-website.replit.app/
 
 The live redirect is handled by `index.html` in the repository root.
 
@@ -14,7 +14,7 @@ The live redirect is handled by `index.html` in the repository root.
 
 Configure GitHub Pages to deploy from:
 
-- Branch: `main`
+- Branch: `joeywilkes12-4amj-landing-page-01`
 - Folder: `/` root
 
 Because this repository is only a redirect page, publishing from the root is simpler than using `/docs`.
